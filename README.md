@@ -2,4 +2,4 @@
 
 Hack the North goodies
 
-Authors: Adam Kalman (@ak11234), Simran Thind, Will Harris (@fjij), Carol Xu (@carolx715).
+Authors: Adam Kalman (@ak11234), Simran Thind (@simcard0000), Will Harris (@fjij), Carol Xu (@carolx715).
